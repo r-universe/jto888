@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FaultTree"]
 	path = FaultTree
 	url = https://github.com/jto888/faulttree
-	shallow = true
-	registered = true
 [submodule "stosim"]
 	path = stosim
 	url = https://github.com/cran/stosim
-	shallow = true
-	registered = true
 [submodule "WeibullR"]
 	path = WeibullR
 	url = https://github.com/cran/WeibullR
-	shallow = true
-	registered = true
 [submodule "WeibullR.ALT"]
 	path = WeibullR.ALT
 	url = https://github.com/cran/WeibullR.ALT
-	shallow = true
-	registered = true
