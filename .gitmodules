@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CARMS"]
+	path = CARMS
+	url = https://github.com/cran/CARMS
 [submodule "FaultTree"]
 	path = FaultTree
 	url = https://github.com/jto888/faulttree
