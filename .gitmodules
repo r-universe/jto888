@@ -8,9 +8,6 @@
 [submodule "FaultTree"]
 	path = FaultTree
 	url = https://github.com/jto888/faulttree
-[submodule "WeibullR"]
-	path = WeibullR
-	url = https://github.com/cran/WeibullR
 [submodule "WeibullR.ALT"]
 	path = WeibullR.ALT
 	url = https://github.com/cran/WeibullR.ALT
